@@ -248,5 +248,4 @@ antes de ejecutarlo.
 - Texto a SQL — Hugging Face.
 - Como crear un generador de consultas SQL a partir de texto con Streamlit y
   Hugging Face (Medium), por Kuhelidey.
-- Codigo completo: *(enlace al repositorio publico — agregar antes de
-  publicar)*
+- Codigo completo: https://github.com/JhonyVargas/text-to-sql-ia
